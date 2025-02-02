@@ -59,7 +59,7 @@ class Program
         }
 
     //Bonus
-        Console.WriteLine("Pleased input a year: ");
+        Console.WriteLine("Please input a year: ");
         string user_year = Console.ReadLine();
         int year_int = Convert.ToInt16(user_year);
         // Console.WriteLine($"{user_year}");
