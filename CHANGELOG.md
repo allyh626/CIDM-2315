@@ -2,3 +2,5 @@
 -created the repo, added new CHANGELOG file
 1/24/25
 -uploaded Homework1 code file
+2/2/25
+-uploaded Homework2 code file
