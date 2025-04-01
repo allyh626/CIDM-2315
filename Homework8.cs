@@ -63,7 +63,7 @@ class Program
     }
     else
     {
-        Console.WriteLine("No customers found in Amarillo.");
+        Console.WriteLine("No customers in Amarillo.");
     }
         }
 
