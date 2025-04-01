@@ -49,7 +49,7 @@ class Program
     {
         // check if the customer lives in Amarillo
         if (customer.customerCity == "Amarillo")
-        {   // Add the age of the Amarillo customer to the total
+        {   // Addage of the Amarillo customer to the total
             totalAmarilloAge += customer.customerAge;
             countAmarilloAge++;
         }
